@@ -1,0 +1,19 @@
+{
+  "name": "ga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "chart.js": "^2.7.3",
+    "chartjs-node": "^1.7.1",
+    "fast-sort": "^1.6.0",
+    "genemo": "^1.1.0",
+    "jsdom": "^15.1.1"
+  }
+}
